@@ -1,0 +1,49 @@
+.cla1 {
+  /* background-color: coral; */
+  background: linear-gradient(to top, white 57%, rgb(247, 91, 19) 0%);
+  height: 600px;
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  box-shadow: 0 0 10px silver;
+  border-radius: 10px;
+  color: white;
+  padding: 20px;
+  padding-left: 50px;
+  position: relative;
+}
+
+.cla2 {
+  height: 400px;
+  width: 425px;
+  position: absolute;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: -38px;
+  border-radius: 10px;
+  box-shadow: 0 0 3px silver;
+  color: black;
+  color: rgb(88, 86, 86);
+}
+
+.cla3 {
+  width: 395px;
+  margin-left: 15px;
+  height: 40px;
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 15px;
+  box-shadow: 0 0 3px rgb(102, 101, 101);
+}
+
+.cla4 {
+  position: absolute;
+  border-radius: 50px;
+  width: 70px;
+  height: 70px;
+  background-color: rgb(250, 112, 48);
+  margin-top: -10px;
+  box-shadow: 0 0 5px rgb(250, 112, 48);
+}
